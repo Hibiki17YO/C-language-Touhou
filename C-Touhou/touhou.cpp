@@ -20,7 +20,7 @@ enum MyEnum
 	Width = 420,
 	Height = 630,
 	BulletNum = 40,
-	EnemyNum = 100,
+	EnemyNum = 40,
 	Large,
 	Small,
 	SmallN,

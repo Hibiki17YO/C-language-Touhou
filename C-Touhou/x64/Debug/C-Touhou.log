@@ -1,0 +1,12 @@
+﻿  touhou.cpp
+C:\Users\52528\Desktop\Programs\C项目-N\C-Touhou\C-Touhou\touhou.cpp(462,18): warning C4477: “fscanf”: 格式字符串“%ld”需要类型“long *”的参数，但可变参数 2 拥有了类型“time_t *”
+C:\Users\52528\Desktop\Programs\C项目-N\C-Touhou\C-Touhou\touhou.cpp(462,18): message : 请考虑在格式字符串中使用“%lld”
+C:\Users\52528\Desktop\Programs\C项目-N\C-Touhou\C-Touhou\touhou.cpp(462,18): message : 请考虑在格式字符串中使用“%Id”
+C:\Users\52528\Desktop\Programs\C项目-N\C-Touhou\C-Touhou\touhou.cpp(462,18): message : 请考虑在格式字符串中使用“%I64d”
+C:\Users\52528\Desktop\Programs\C项目-N\C-Touhou\C-Touhou\touhou.cpp(475,15): warning C4477: “fprintf”: 格式字符串“%ld”需要类型“long”的参数，但可变参数 2 拥有了类型“time_t”
+C:\Users\52528\Desktop\Programs\C项目-N\C-Touhou\C-Touhou\touhou.cpp(475,15): message : 请考虑在格式字符串中使用“%lld”
+C:\Users\52528\Desktop\Programs\C项目-N\C-Touhou\C-Touhou\touhou.cpp(475,15): message : 请考虑在格式字符串中使用“%Id”
+C:\Users\52528\Desktop\Programs\C项目-N\C-Touhou\C-Touhou\touhou.cpp(475,15): message : 请考虑在格式字符串中使用“%I64d”
+C:\Users\52528\Desktop\Programs\C项目-N\C-Touhou\C-Touhou\touhou.cpp(518,7): warning C4101: “endTitle”: 未引用的局部变量
+C:\Users\52528\Desktop\Programs\C项目-N\C-Touhou\C-Touhou\touhou.cpp(563,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  C-Touhou.vcxproj -> C:\Users\52528\Desktop\Programs\C项目-N\C-Touhou\x64\Debug\C-Touhou.exe
